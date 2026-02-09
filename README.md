@@ -3,8 +3,10 @@ Japanese erp made by my hobby.
 
  Iron Vault (v8.5 CRT Legacy Edition)
 "Solid as Iron, Simple as Legacy."
+
 A hyper-lightweight, standalone ERP solution tailored for Japanese SMEs to comply with the Electronic Book Storage Act and the Invoice System.
 日本の電子帳簿保存法・インボイス制度に対応した、超軽量・スタンドアローン型ERPツール。
+
 🇬🇧 English Description
 📖 Overview
 Iron Vault is a hobbyist project designed to solve a complex problem with extreme simplicity. It serves as a miniature ERP system for small manufacturing companies in Japan that need to manage ledgers and invoices without relying on expensive, cloud-based subscriptions.
